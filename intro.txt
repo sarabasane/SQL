@@ -1,0 +1,4 @@
+MCD - Modèle Conceptuel de Données (plan de construction)
+SGBD - Système de Gestion de Base De Données (exploite les données)
+BDD - Base De Données (emplacement où les données sont sauvegardées)
+SQL - Structure Query Langage (Langage de requête structuré) 
