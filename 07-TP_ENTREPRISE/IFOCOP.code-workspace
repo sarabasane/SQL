@@ -1,13 +1,19 @@
 {
-	"folders": [
-		{
-			"path": "../../../../../../Users/sarabasane/IFOCOP"
-		},
-		{
-			"path": ".."
-		}
-	],
-	"settings": {
-		"open-in-browser.default": "Mozzilla Firefox"
-	}
+  "folders": [
+    {
+      "path": "../../../../../../Users/sarabasane/IFOCOP"
+    },
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../../PHP/01-Syntaxe-base"
+    },
+    {
+      "path": "../../../PHP/02-conditions"
+    }
+  ],
+  "settings": {
+    "open-in-browser.default": "Mozzilla Firefox"
+  }
 }

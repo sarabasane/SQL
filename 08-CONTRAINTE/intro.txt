@@ -1,0 +1,9 @@
+---------------------- CONTRAINTE --------------------------
+
+Une clé étrangère est une colonne ou une combinaison de colonnes dans une table qui est utilisée pour référence à une clé primaire d'une autre table.
+
+Les actions "No Action" & Restrict" sont similaires. Lorsqu'on tente des supprimer une valeur référencée par une clé étrangère, l'action est annulée et une erreur est renvoyée.
+
+L'action en cascade signifie que si l'on supprime un fournisseur (parent), cela entraînera également la suppression des articles (enfants) associés à ce fournisseur.
+
+L'option "SET NULL" inscrit la valeur NULL (dans la table article) si le fournisseur a été supprimé.
